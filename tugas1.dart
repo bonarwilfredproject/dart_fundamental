@@ -10,7 +10,8 @@ void main() {
     "Matematika Dasar",
     "Bahasa Inggris",
   ];
-  /*List yang berisi informasi tambahan anggota*/
+  /*List yang berisi informasi 
+  tambahan anggota*/
   Map<String, dynamic> informasiTambahan = {
     'alamat':
         "Jalan Mede No.2A RT 06 RW 09 Kel. Rawamangun Kec. Pulogadung Kota Jakarta Timur",
