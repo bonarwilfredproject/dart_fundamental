@@ -21,7 +21,7 @@ void main() {
   //Soal 3 Nama Berulang
   stdout.write("3. ");
   int i = 0;
-  while (i < 3) {
+  while (i < 4) {
     print("Bonar");
     i++;
   }
